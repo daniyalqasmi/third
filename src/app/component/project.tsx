@@ -10,7 +10,7 @@ export default function Projects() {
               MY PROJECTS
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base text-white">
-            "Within the depths of my project lies a symphony of innovation, meticulous craftsmanship, and boundless imagination, creating a masterpiece that transcends boundaries and sparks awe in all who behold it."
+            Within the depths of my project lies a symphony of innovation, meticulous craftsmanship, and boundless imagination, creating a masterpiece that transcends boundaries and sparks awe in all who behold it.
             </p>
           </div>
           <div className="flex flex-wrap -m-4">
