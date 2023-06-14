@@ -9,7 +9,7 @@ import { FaPython } from "react-icons/fa"
 
 export default function Skills() {
     return (
-        <div id="Skills" className="  bg-gradient-to-r from-pink-500  to-purple-500 via-95%">
+        <div id="Skills" className="  bg-gradient-to-r from-purple-400  to-blue-500 via-95%">
             <section className="text-gray-600 body-font">
                 <div className="container px-5 py-24 mx-auto">
                     <div className="flex flex-col text-center w-full mb-20">

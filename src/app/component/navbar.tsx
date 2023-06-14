@@ -10,7 +10,7 @@ export default function Navbar() {
     return (
         <div id="home">
             <header className="text-black body-font">
-                <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center bg-gradient-to-r from-pink-500  to-purple-500 via-95%">
+                <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center bg-gradient-to-r from-purple-400  to-blue-500 via-95%">
                     <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
                         <Image src={require("../../../public/assests/pic/logo-01.jpg")} alt={"MDQ"} width={70} height={70} className="hover:text-black-200 rounded-full" />
                         <span className="ml-3 text-7xl">MDQ</span>

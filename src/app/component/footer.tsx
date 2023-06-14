@@ -5,10 +5,10 @@ import { FaGithub } from "react-icons/fa";
 
 export default function Footer() {
     return (
-        <div className="bg-gradient-to-r from-pink-500  to-purple-500 via-95%">
+        <div className="bg-gradient-to-r from-purple-400  to-blue-500 via-95%">
             <footer className="text-gray-600 body-font">
                 
-                <div className="bg-gradient-to-r from-pink-500  to-purple-500 via-95%">
+                <div className="bg-gradient-to-r from-purple-400  to-blue-500 via-95%">
                     <div className="container px-5 py-6 mx-auto flex items-center sm:flex-row flex-col">
                         <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
                             <Image
